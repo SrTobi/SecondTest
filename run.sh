@@ -1,3 +1,3 @@
 #!/bin/sh
 
-sleep 3.4
+sleep 3.3
