@@ -2,4 +2,4 @@
 
 echo "Done!!!"
 echo "naaa!!"
-sleep 3
+sleep 2
