@@ -2,4 +2,8 @@
 
 echo "Done!!!"
 echo "naaa!!"
-sleep 2
+
+mkdir build
+cd build
+cmake ..
+make
