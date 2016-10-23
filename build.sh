@@ -3,7 +3,4 @@
 echo "Done!!!"
 echo "naaa!!"
 
-mkdir build
-cd build
-cmake ..
-make
+sleep 1000 & 
